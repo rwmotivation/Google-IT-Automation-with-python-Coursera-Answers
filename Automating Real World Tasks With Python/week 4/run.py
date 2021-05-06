@@ -2,6 +2,7 @@
 
 import os 
 import requests
+import json
 
 
 BASEPATH_SUPPLIER_TEXT_DES = os.path.expanduser('~') + '/supplier-data/descriptions/'

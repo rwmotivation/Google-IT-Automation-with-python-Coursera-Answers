@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import os
+import os, sys
 from PIL import Image
 
 path = os.path.expanduser('~') + '/supplier-data/images/'
